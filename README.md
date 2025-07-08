@@ -60,22 +60,6 @@ Experience publishing interactive analysis reports
 
 ---
 
-✅ How to Use
-
-1. Clone the repository
-
-git clone https://github.com/Bishakhakapur/blinkit-data-insights/blob/main/README.md
-
-
-2. Open the .html file in your browser to explore the full analysis
-
-
-3. Explore, contribute, and share feedback!
-
-
-
-
----
 
 🔮 Future Enhancements
 
