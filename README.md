@@ -64,7 +64,7 @@ Experience publishing interactive analysis reports
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/Blinkit-Analysis.git
+git clone https://github.com/Bishakhakapur/Blinkit-Analysis.git
 
 
 2. Open the .html file in your browser to explore the full analysis
